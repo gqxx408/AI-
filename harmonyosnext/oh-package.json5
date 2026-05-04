@@ -1,0 +1,10 @@
+{
+  "modelVersion": "6.1.0",
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "AI智能炒股助手入口模块",
+  "main": "",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {}
+}
